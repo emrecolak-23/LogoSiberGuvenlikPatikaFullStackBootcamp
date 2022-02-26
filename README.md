@@ -1,6 +1,6 @@
 ### Hi, You can find my tasks in Logo SiberGuvenlik Patika FullStack Bootcamp  👋
 
-## In this bootcamp, i get information about node.js, react native, http and expree.js
+## In this bootcamp, i get information about node.js, react native, http and express.js
 
 Here are some projects:
 
